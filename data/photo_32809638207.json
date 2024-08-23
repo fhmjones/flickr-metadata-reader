@@ -1,0 +1,108 @@
+{
+	"id": "32809638207",
+	"name": "Orpiment",
+	"description": "Getchell Mine\nNevada, USA\n\n#574",
+	"count_views": "40",
+	"count_faves": "0",
+	"count_comments": "0",
+	"date_taken": "2018-05-17 15:27:16",
+	"count_tags": "12",
+	"count_notes": "0",
+	"rotation": 0,
+	"date_imported": "2019-05-01 16:25:24",
+	"photopage": "https://www.flickr.com/photos/pmeubc/32809638207/",
+	"original": "https://live.staticflickr.com/65535/32809638207_06a55ac143_o.jpg",
+	"license": "Attribution-ShareAlike License",
+	"geo": [
+		{
+			"latitude": "41222890",
+			"longitude": "-117240214",
+			"accuracy": "14"
+		}
+	],
+	"groups": [
+
+	],
+	"albums": [
+		{
+			"id": "72157708861631182",
+			"title": "Cabinet 2",
+			"url": "https://www.flickr.com/photos/pmeubc/sets/72157708861631182/"
+		}
+	],
+	"tags": [
+		{
+			"tag": "pacific museum of earth",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:28"
+		},
+		{
+			"tag": "pmeubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:28"
+		},
+		{
+			"tag": "ubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:28"
+		},
+		{
+			"tag": "ubc mineral collection",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:28"
+		},
+		{
+			"tag": "orpiment",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:28"
+		},
+		{
+			"tag": "united states of america",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:28"
+		},
+		{
+			"tag": "USA",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:28"
+		},
+		{
+			"tag": "united states",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:28"
+		},
+		{
+			"tag": "US",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:28"
+		},
+		{
+			"tag": "nevada",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:28"
+		},
+		{
+			"tag": "NV",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:28"
+		},
+		{
+			"tag": "getchell mine",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:28"
+		}
+	],
+	"people": [
+
+	],
+	"notes": [
+
+	],
+	"privacy": "public",
+	"comment_permissions": "any flickr member",
+	"tagging_permissions": "people you follow",
+	"safety": "safe",
+	"comments": [
+
+	]
+}

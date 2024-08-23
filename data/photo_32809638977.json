@@ -1,0 +1,69 @@
+{
+	"id": "32809638977",
+	"name": "Realgar",
+	"description": "#537",
+	"count_views": "49",
+	"count_faves": "0",
+	"count_comments": "0",
+	"date_taken": "2018-02-27 13:27:42",
+	"count_tags": "5",
+	"count_notes": "0",
+	"rotation": 0,
+	"date_imported": "2019-05-01 16:25:38",
+	"photopage": "https://www.flickr.com/photos/pmeubc/32809638977/",
+	"original": "https://live.staticflickr.com/65535/32809638977_aae64614d3_o.jpg",
+	"license": "Attribution-ShareAlike License",
+	"geo": [
+
+	],
+	"groups": [
+
+	],
+	"albums": [
+		{
+			"id": "72157708861631182",
+			"title": "Cabinet 2",
+			"url": "https://www.flickr.com/photos/pmeubc/sets/72157708861631182/"
+		}
+	],
+	"tags": [
+		{
+			"tag": "pacific museum of earth",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:09"
+		},
+		{
+			"tag": "pmeubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:09"
+		},
+		{
+			"tag": "ubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:09"
+		},
+		{
+			"tag": "ubc mineral collection",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:09"
+		},
+		{
+			"tag": "realgar",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:09"
+		}
+	],
+	"people": [
+
+	],
+	"notes": [
+
+	],
+	"privacy": "public",
+	"comment_permissions": "any flickr member",
+	"tagging_permissions": "people you follow",
+	"safety": "safe",
+	"comments": [
+
+	]
+}

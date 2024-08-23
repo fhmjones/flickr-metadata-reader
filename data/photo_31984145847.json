@@ -1,0 +1,93 @@
+{
+	"id": "31984145847",
+	"name": "Sulphur",
+	"description": "100 miles north of Torre\u00f3n\nMexico\n\nS-88-77",
+	"count_views": "123",
+	"count_faves": "0",
+	"count_comments": "0",
+	"date_taken": "2017-07-09 12:35:12",
+	"count_tags": "8",
+	"count_notes": "0",
+	"rotation": 0,
+	"date_imported": "2019-01-29 23:30:40",
+	"photopage": "https://www.flickr.com/photos/pmeubc/31984145847/",
+	"original": "https://live.staticflickr.com/4841/31984145847_23e9602a64_o.jpg",
+	"license": "Attribution-ShareAlike License",
+	"geo": [
+		{
+			"latitude": "26984245",
+			"longitude": "-103409383",
+			"accuracy": "16"
+		}
+	],
+	"groups": [
+
+	],
+	"albums": [
+		{
+			"id": "72157708861619387",
+			"title": "Cabinet 1",
+			"url": "https://www.flickr.com/photos/pmeubc/sets/72157708861619387/"
+		},
+		{
+			"id": "72157704798588251",
+			"title": "Mineral Collection",
+			"url": "https://www.flickr.com/photos/pmeubc/sets/72157704798588251/"
+		}
+	],
+	"tags": [
+		{
+			"tag": "pacific museum of earth",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:28:33"
+		},
+		{
+			"tag": "pmeubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:28:33"
+		},
+		{
+			"tag": "ubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:28:33"
+		},
+		{
+			"tag": "sutton-thompson collection",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:28:33"
+		},
+		{
+			"tag": "sulphur",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:28:33"
+		},
+		{
+			"tag": "sulfur",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:28:33"
+		},
+		{
+			"tag": "mexico",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:28:33"
+		},
+		{
+			"tag": "torre\u00f3n",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:28:33"
+		}
+	],
+	"people": [
+
+	],
+	"notes": [
+
+	],
+	"privacy": "public",
+	"comment_permissions": "any flickr member",
+	"tagging_permissions": "people you follow",
+	"safety": "safe",
+	"comments": [
+
+	]
+}

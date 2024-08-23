@@ -1,0 +1,108 @@
+{
+	"id": "31972216077",
+	"name": "Arsenic",
+	"description": "Alder Island, South end of Queen Charlotte Islands\nBritish Columbia, Canada\n\nS-88-32",
+	"count_views": "190",
+	"count_faves": "0",
+	"count_comments": "0",
+	"date_taken": "2017-07-13 14:41:05",
+	"count_tags": "11",
+	"count_notes": "0",
+	"rotation": 180,
+	"date_imported": "2019-01-28 21:28:44",
+	"photopage": "https://www.flickr.com/photos/pmeubc/31972216077/",
+	"original": "https://live.staticflickr.com/4842/31972216077_a43b82a549_o.jpg",
+	"license": "Attribution-ShareAlike License",
+	"geo": [
+		{
+			"latitude": "52447640",
+			"longitude": "-131321125",
+			"accuracy": "16"
+		}
+	],
+	"groups": [
+
+	],
+	"albums": [
+		{
+			"id": "72157708861619387",
+			"title": "Cabinet 1",
+			"url": "https://www.flickr.com/photos/pmeubc/sets/72157708861619387/"
+		},
+		{
+			"id": "72157704798588251",
+			"title": "Mineral Collection",
+			"url": "https://www.flickr.com/photos/pmeubc/sets/72157704798588251/"
+		}
+	],
+	"tags": [
+		{
+			"tag": "pacific museum of earth",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:18"
+		},
+		{
+			"tag": "pmeubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:18"
+		},
+		{
+			"tag": "ubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:18"
+		},
+		{
+			"tag": "sutton-thompson collection",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:18"
+		},
+		{
+			"tag": "arsenic",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:18"
+		},
+		{
+			"tag": "canada",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:18"
+		},
+		{
+			"tag": "british columbia",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:18"
+		},
+		{
+			"tag": "BC",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:18"
+		},
+		{
+			"tag": "queen charlotte islands",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:18"
+		},
+		{
+			"tag": "haida gwaii",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:18"
+		},
+		{
+			"tag": "alder island",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:18"
+		}
+	],
+	"people": [
+
+	],
+	"notes": [
+
+	],
+	"privacy": "public",
+	"comment_permissions": "any flickr member",
+	"tagging_permissions": "people you follow",
+	"safety": "safe",
+	"comments": [
+
+	]
+}

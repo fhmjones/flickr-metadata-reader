@@ -1,0 +1,98 @@
+{
+	"id": "32809634437",
+	"name": "Proustite",
+	"description": "Silver Miller Mine, Cobalt\nOntario, Canada\n\n#714",
+	"count_views": "61",
+	"count_faves": "0",
+	"count_comments": "0",
+	"date_taken": "2018-07-09 12:50:51",
+	"count_tags": "10",
+	"count_notes": "0",
+	"rotation": 0,
+	"date_imported": "2019-05-01 16:24:35",
+	"photopage": "https://www.flickr.com/photos/pmeubc/32809634437/",
+	"original": "https://live.staticflickr.com/65535/32809634437_050b8fcc80_o.jpg",
+	"license": "Attribution-ShareAlike License",
+	"geo": [
+		{
+			"latitude": "47396373",
+			"longitude": "-79685683",
+			"accuracy": "14"
+		}
+	],
+	"groups": [
+
+	],
+	"albums": [
+		{
+			"id": "72157708861631182",
+			"title": "Cabinet 2",
+			"url": "https://www.flickr.com/photos/pmeubc/sets/72157708861631182/"
+		}
+	],
+	"tags": [
+		{
+			"tag": "pacific museum of earth",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:26:48"
+		},
+		{
+			"tag": "pmeubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:26:48"
+		},
+		{
+			"tag": "ubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:26:48"
+		},
+		{
+			"tag": "ubc mineral collection",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:26:48"
+		},
+		{
+			"tag": "proustite",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:26:48"
+		},
+		{
+			"tag": "canada",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:26:48"
+		},
+		{
+			"tag": "ontario",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:26:48"
+		},
+		{
+			"tag": "ON",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:26:48"
+		},
+		{
+			"tag": "cobalt",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:26:48"
+		},
+		{
+			"tag": "silver miller mine",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:26:48"
+		}
+	],
+	"people": [
+
+	],
+	"notes": [
+
+	],
+	"privacy": "public",
+	"comment_permissions": "any flickr member",
+	"tagging_permissions": "people you follow",
+	"safety": "safe",
+	"comments": [
+
+	]
+}

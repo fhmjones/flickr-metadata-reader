@@ -1,0 +1,103 @@
+{
+	"id": "31984128427",
+	"name": "Tetradymite",
+	"description": "Nansen Creek, Carmacks District\nYukon, Canada\n\nS-89-159",
+	"count_views": "55",
+	"count_faves": "0",
+	"count_comments": "0",
+	"date_taken": "2017-07-16 15:55:08",
+	"count_tags": "10",
+	"count_notes": "0",
+	"rotation": 180,
+	"date_imported": "2019-01-29 23:27:59",
+	"photopage": "https://www.flickr.com/photos/pmeubc/31984128427/",
+	"original": "https://live.staticflickr.com/7889/31984128427_1ec56c7927_o.jpg",
+	"license": "Attribution-ShareAlike License",
+	"geo": [
+		{
+			"latitude": "61980067",
+			"longitude": "-137202397",
+			"accuracy": "16"
+		}
+	],
+	"groups": [
+
+	],
+	"albums": [
+		{
+			"id": "72157708861619387",
+			"title": "Cabinet 1",
+			"url": "https://www.flickr.com/photos/pmeubc/sets/72157708861619387/"
+		},
+		{
+			"id": "72157704798588251",
+			"title": "Mineral Collection",
+			"url": "https://www.flickr.com/photos/pmeubc/sets/72157704798588251/"
+		}
+	],
+	"tags": [
+		{
+			"tag": "pacific museum of earth",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:29:14"
+		},
+		{
+			"tag": "pmeubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:29:14"
+		},
+		{
+			"tag": "ubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:29:14"
+		},
+		{
+			"tag": "sutton-thompson collection",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:29:14"
+		},
+		{
+			"tag": "tetradymite",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:29:14"
+		},
+		{
+			"tag": "canada",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:29:14"
+		},
+		{
+			"tag": "yukon",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:29:14"
+		},
+		{
+			"tag": "YT",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:29:14"
+		},
+		{
+			"tag": "carmacks district",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:29:14"
+		},
+		{
+			"tag": "nansen creek",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:29:14"
+		}
+	],
+	"people": [
+
+	],
+	"notes": [
+
+	],
+	"privacy": "public",
+	"comment_permissions": "any flickr member",
+	"tagging_permissions": "people you follow",
+	"safety": "safe",
+	"comments": [
+
+	]
+}

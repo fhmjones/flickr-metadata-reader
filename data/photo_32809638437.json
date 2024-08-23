@@ -1,0 +1,83 @@
+{
+	"id": "32809638437",
+	"name": "Stibnite",
+	"description": "Serbia\nYugoslavia\n\n#562",
+	"count_views": "65",
+	"count_faves": "0",
+	"count_comments": "0",
+	"date_taken": "2018-05-17 15:31:39",
+	"count_tags": "7",
+	"count_notes": "0",
+	"rotation": 0,
+	"date_imported": "2019-05-01 16:25:29",
+	"photopage": "https://www.flickr.com/photos/pmeubc/32809638437/",
+	"original": "https://live.staticflickr.com/65535/32809638437_43115bf686_o.jpg",
+	"license": "Attribution-ShareAlike License",
+	"geo": [
+		{
+			"latitude": "44231424",
+			"longitude": "20788879",
+			"accuracy": "8"
+		}
+	],
+	"groups": [
+
+	],
+	"albums": [
+		{
+			"id": "72157708861631182",
+			"title": "Cabinet 2",
+			"url": "https://www.flickr.com/photos/pmeubc/sets/72157708861631182/"
+		}
+	],
+	"tags": [
+		{
+			"tag": "pacific museum of earth",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:21"
+		},
+		{
+			"tag": "pmeubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:21"
+		},
+		{
+			"tag": "ubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:21"
+		},
+		{
+			"tag": "ubc mineral collection",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:21"
+		},
+		{
+			"tag": "stibnite",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:21"
+		},
+		{
+			"tag": "yugoslavia",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:21"
+		},
+		{
+			"tag": "serbia",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:21"
+		}
+	],
+	"people": [
+
+	],
+	"notes": [
+
+	],
+	"privacy": "public",
+	"comment_permissions": "any flickr member",
+	"tagging_permissions": "people you follow",
+	"safety": "safe",
+	"comments": [
+
+	]
+}

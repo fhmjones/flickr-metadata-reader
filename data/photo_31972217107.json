@@ -1,0 +1,93 @@
+{
+	"id": "31972217107",
+	"name": "Arsenic with Galena",
+	"description": "Marienberg\nGermany\n\nS-74-5",
+	"count_views": "182",
+	"count_faves": "0",
+	"count_comments": "0",
+	"date_taken": "2017-07-13 14:38:49",
+	"count_tags": "8",
+	"count_notes": "0",
+	"rotation": 90,
+	"date_imported": "2019-01-28 21:28:58",
+	"photopage": "https://www.flickr.com/photos/pmeubc/31972217107/",
+	"original": "https://live.staticflickr.com/4807/31972217107_edf4bf17ef_o.jpg",
+	"license": "Attribution-ShareAlike License",
+	"geo": [
+		{
+			"latitude": "50650875",
+			"longitude": "13163037",
+			"accuracy": "14"
+		}
+	],
+	"groups": [
+
+	],
+	"albums": [
+		{
+			"id": "72157708861619387",
+			"title": "Cabinet 1",
+			"url": "https://www.flickr.com/photos/pmeubc/sets/72157708861619387/"
+		},
+		{
+			"id": "72157704798588251",
+			"title": "Mineral Collection",
+			"url": "https://www.flickr.com/photos/pmeubc/sets/72157704798588251/"
+		}
+	],
+	"tags": [
+		{
+			"tag": "pacific museum of earth",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:07"
+		},
+		{
+			"tag": "pmeubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:07"
+		},
+		{
+			"tag": "ubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:07"
+		},
+		{
+			"tag": "sutton-thompson collection",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:07"
+		},
+		{
+			"tag": "arsenic",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:07"
+		},
+		{
+			"tag": "galena",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:07"
+		},
+		{
+			"tag": "germany",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:07"
+		},
+		{
+			"tag": "marienberg",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:07"
+		}
+	],
+	"people": [
+
+	],
+	"notes": [
+
+	],
+	"privacy": "public",
+	"comment_permissions": "any flickr member",
+	"tagging_permissions": "people you follow",
+	"safety": "safe",
+	"comments": [
+
+	]
+}

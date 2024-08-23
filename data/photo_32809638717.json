@@ -1,0 +1,98 @@
+{
+	"id": "32809638717",
+	"name": "Siegenite",
+	"description": "Shinkolobwe\nKatanga, Zaire\n\n#549",
+	"count_views": "42",
+	"count_faves": "0",
+	"count_comments": "0",
+	"date_taken": "2018-05-17 15:49:57",
+	"count_tags": "10",
+	"count_notes": "0",
+	"rotation": 0,
+	"date_imported": "2019-05-01 16:25:33",
+	"photopage": "https://www.flickr.com/photos/pmeubc/32809638717/",
+	"original": "https://live.staticflickr.com/65535/32809638717_b97bc97d14_o.jpg",
+	"license": "Attribution-ShareAlike License",
+	"geo": [
+		{
+			"latitude": "-11051955",
+			"longitude": "26547431",
+			"accuracy": "16"
+		}
+	],
+	"groups": [
+
+	],
+	"albums": [
+		{
+			"id": "72157708861631182",
+			"title": "Cabinet 2",
+			"url": "https://www.flickr.com/photos/pmeubc/sets/72157708861631182/"
+		}
+	],
+	"tags": [
+		{
+			"tag": "pacific museum of earth",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:14"
+		},
+		{
+			"tag": "pmeubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:14"
+		},
+		{
+			"tag": "ubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:14"
+		},
+		{
+			"tag": "ubc mineral collection",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:14"
+		},
+		{
+			"tag": "linnaeite",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:14"
+		},
+		{
+			"tag": "siegenite",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:14"
+		},
+		{
+			"tag": "congo",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:14"
+		},
+		{
+			"tag": "zaire",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:14"
+		},
+		{
+			"tag": "katanga",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:14"
+		},
+		{
+			"tag": "shinkolobwe",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:14"
+		}
+	],
+	"people": [
+
+	],
+	"notes": [
+
+	],
+	"privacy": "public",
+	"comment_permissions": "any flickr member",
+	"tagging_permissions": "people you follow",
+	"safety": "safe",
+	"comments": [
+
+	]
+}

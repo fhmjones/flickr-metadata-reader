@@ -1,0 +1,93 @@
+{
+	"id": "31972216447",
+	"name": "Antimony",
+	"description": "Sarrabus\nSardinia, Italy\n\nS-74-21",
+	"count_views": "105",
+	"count_faves": "0",
+	"count_comments": "0",
+	"date_taken": "2017-07-13 14:42:06",
+	"count_tags": "8",
+	"count_notes": "0",
+	"rotation": 180,
+	"date_imported": "2019-01-28 21:28:49",
+	"photopage": "https://www.flickr.com/photos/pmeubc/31972216447/",
+	"original": "https://live.staticflickr.com/7868/31972216447_a1228001a8_o.jpg",
+	"license": "Attribution-ShareAlike License",
+	"geo": [
+		{
+			"latitude": "39383330",
+			"longitude": "9350000",
+			"accuracy": "16"
+		}
+	],
+	"groups": [
+
+	],
+	"albums": [
+		{
+			"id": "72157708861619387",
+			"title": "Cabinet 1",
+			"url": "https://www.flickr.com/photos/pmeubc/sets/72157708861619387/"
+		},
+		{
+			"id": "72157704798588251",
+			"title": "Mineral Collection",
+			"url": "https://www.flickr.com/photos/pmeubc/sets/72157704798588251/"
+		}
+	],
+	"tags": [
+		{
+			"tag": "pacific museum of earth",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:21"
+		},
+		{
+			"tag": "pmeubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:21"
+		},
+		{
+			"tag": "ubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:21"
+		},
+		{
+			"tag": "sutton-thompson collection",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:21"
+		},
+		{
+			"tag": "antimony",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:21"
+		},
+		{
+			"tag": "italy",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:21"
+		},
+		{
+			"tag": "sardinia",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:21"
+		},
+		{
+			"tag": "sarrabus",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:21"
+		}
+	],
+	"people": [
+
+	],
+	"notes": [
+
+	],
+	"privacy": "public",
+	"comment_permissions": "any flickr member",
+	"tagging_permissions": "people you follow",
+	"safety": "safe",
+	"comments": [
+
+	]
+}

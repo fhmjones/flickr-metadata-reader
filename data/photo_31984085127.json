@@ -1,0 +1,103 @@
+{
+	"id": "31984085127",
+	"name": "Chalcopyrite",
+	"description": "Cornwall, England\n\nSpecial Features: Distorted\n\nS-74-371",
+	"count_views": "89",
+	"count_faves": "0",
+	"count_comments": "0",
+	"date_taken": "2017-09-19 17:45:45",
+	"count_tags": "10",
+	"count_notes": "0",
+	"rotation": 0,
+	"date_imported": "2019-01-29 23:22:53",
+	"photopage": "https://www.flickr.com/photos/pmeubc/31984085127/",
+	"original": "https://live.staticflickr.com/4814/31984085127_4f3b0f023f_o.jpg",
+	"license": "Attribution-ShareAlike License",
+	"geo": [
+		{
+			"latitude": "50400000",
+			"longitude": "-4900000",
+			"accuracy": "16"
+		}
+	],
+	"groups": [
+
+	],
+	"albums": [
+		{
+			"id": "72157708861619387",
+			"title": "Cabinet 1",
+			"url": "https://www.flickr.com/photos/pmeubc/sets/72157708861619387/"
+		},
+		{
+			"id": "72157704798588251",
+			"title": "Mineral Collection",
+			"url": "https://www.flickr.com/photos/pmeubc/sets/72157704798588251/"
+		}
+	],
+	"tags": [
+		{
+			"tag": "pacific museum of earth",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:31:21"
+		},
+		{
+			"tag": "pmeubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:31:21"
+		},
+		{
+			"tag": "ubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:31:21"
+		},
+		{
+			"tag": "sutton-thompson collection",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:31:21"
+		},
+		{
+			"tag": "chalcopyrite",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:31:21"
+		},
+		{
+			"tag": "distorted",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:31:21"
+		},
+		{
+			"tag": "united kingdom",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:31:21"
+		},
+		{
+			"tag": "UK",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:31:21"
+		},
+		{
+			"tag": "england",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:31:21"
+		},
+		{
+			"tag": "cornwall",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:31:21"
+		}
+	],
+	"people": [
+
+	],
+	"notes": [
+
+	],
+	"privacy": "public",
+	"comment_permissions": "any flickr member",
+	"tagging_permissions": "people you follow",
+	"safety": "safe",
+	"comments": [
+
+	]
+}

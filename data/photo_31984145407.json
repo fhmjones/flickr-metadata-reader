@@ -1,0 +1,88 @@
+{
+	"id": "31984145407",
+	"name": "Sulphur",
+	"description": "Japan\n\nS-88-79",
+	"count_views": "114",
+	"count_faves": "0",
+	"count_comments": "0",
+	"date_taken": "2017-07-09 12:43:29",
+	"count_tags": "7",
+	"count_notes": "0",
+	"rotation": 0,
+	"date_imported": "2019-01-29 23:30:37",
+	"photopage": "https://www.flickr.com/photos/pmeubc/31984145407/",
+	"original": "https://live.staticflickr.com/7852/31984145407_daf9349923_o.jpg",
+	"license": "Attribution-ShareAlike License",
+	"geo": [
+		{
+			"latitude": "36396967",
+			"longitude": "138578797",
+			"accuracy": "8"
+		}
+	],
+	"groups": [
+
+	],
+	"albums": [
+		{
+			"id": "72157708861619387",
+			"title": "Cabinet 1",
+			"url": "https://www.flickr.com/photos/pmeubc/sets/72157708861619387/"
+		},
+		{
+			"id": "72157704798588251",
+			"title": "Mineral Collection",
+			"url": "https://www.flickr.com/photos/pmeubc/sets/72157704798588251/"
+		}
+	],
+	"tags": [
+		{
+			"tag": "pacific museum of earth",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:28:34"
+		},
+		{
+			"tag": "pmeubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:28:34"
+		},
+		{
+			"tag": "ubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:28:34"
+		},
+		{
+			"tag": "sutton-thompson collection",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:28:34"
+		},
+		{
+			"tag": "sulphur",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:28:34"
+		},
+		{
+			"tag": "sulfur",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:28:34"
+		},
+		{
+			"tag": "japan",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-29 23:28:34"
+		}
+	],
+	"people": [
+
+	],
+	"notes": [
+
+	],
+	"privacy": "public",
+	"comment_permissions": "any flickr member",
+	"tagging_permissions": "people you follow",
+	"safety": "safe",
+	"comments": [
+
+	]
+}

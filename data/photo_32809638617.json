@@ -1,0 +1,103 @@
+{
+	"id": "32809638617",
+	"name": "Orpiment",
+	"description": "Washington, USA\n\n#554",
+	"count_views": "34",
+	"count_faves": "0",
+	"count_comments": "0",
+	"date_taken": "2018-05-17 15:59:52",
+	"count_tags": "11",
+	"count_notes": "0",
+	"rotation": 0,
+	"date_imported": "2019-05-01 16:25:31",
+	"photopage": "https://www.flickr.com/photos/pmeubc/32809638617/",
+	"original": "https://live.staticflickr.com/65535/32809638617_4d55248bf4_o.jpg",
+	"license": "Attribution-ShareAlike License",
+	"geo": [
+		{
+			"latitude": "48037692",
+			"longitude": "-120116272",
+			"accuracy": "8"
+		}
+	],
+	"groups": [
+
+	],
+	"albums": [
+		{
+			"id": "72157708861631182",
+			"title": "Cabinet 2",
+			"url": "https://www.flickr.com/photos/pmeubc/sets/72157708861631182/"
+		}
+	],
+	"tags": [
+		{
+			"tag": "pacific museum of earth",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:16"
+		},
+		{
+			"tag": "pmeubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:16"
+		},
+		{
+			"tag": "ubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:16"
+		},
+		{
+			"tag": "ubc mineral collection",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:16"
+		},
+		{
+			"tag": "orpiment",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:16"
+		},
+		{
+			"tag": "united states of america",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:16"
+		},
+		{
+			"tag": "USA",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:16"
+		},
+		{
+			"tag": "united states",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:16"
+		},
+		{
+			"tag": "US",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:16"
+		},
+		{
+			"tag": "washington",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:16"
+		},
+		{
+			"tag": "WA",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-05-01 16:25:16"
+		}
+	],
+	"people": [
+
+	],
+	"notes": [
+
+	],
+	"privacy": "public",
+	"comment_permissions": "any flickr member",
+	"tagging_permissions": "people you follow",
+	"safety": "safe",
+	"comments": [
+
+	]
+}

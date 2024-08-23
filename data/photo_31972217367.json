@@ -1,0 +1,69 @@
+{
+	"id": "31972217367",
+	"name": "No Label",
+	"description": "",
+	"count_views": "125",
+	"count_faves": "0",
+	"count_comments": "0",
+	"date_taken": "2017-08-30 14:06:36",
+	"count_tags": "4",
+	"count_notes": "0",
+	"rotation": 180,
+	"date_imported": "2019-01-28 21:29:00",
+	"photopage": "https://www.flickr.com/photos/pmeubc/31972217367/",
+	"original": "https://live.staticflickr.com/4883/31972217367_8d9b6577e3_o.jpg",
+	"license": "Attribution-ShareAlike License",
+	"geo": [
+
+	],
+	"groups": [
+
+	],
+	"albums": [
+		{
+			"id": "72157708861619387",
+			"title": "Cabinet 1",
+			"url": "https://www.flickr.com/photos/pmeubc/sets/72157708861619387/"
+		},
+		{
+			"id": "72157704798588251",
+			"title": "Mineral Collection",
+			"url": "https://www.flickr.com/photos/pmeubc/sets/72157704798588251/"
+		}
+	],
+	"tags": [
+		{
+			"tag": "pacific museum of earth",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:06"
+		},
+		{
+			"tag": "pmeubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:06"
+		},
+		{
+			"tag": "ubc",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:06"
+		},
+		{
+			"tag": "galena",
+			"user": "https://www.flickr.com/photos/pmeubc/",
+			"date_create": "2019-01-28 21:37:06"
+		}
+	],
+	"people": [
+
+	],
+	"notes": [
+
+	],
+	"privacy": "public",
+	"comment_permissions": "any flickr member",
+	"tagging_permissions": "people you follow",
+	"safety": "safe",
+	"comments": [
+
+	]
+}
