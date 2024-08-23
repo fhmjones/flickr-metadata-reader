@@ -33,7 +33,7 @@ outf = open("demofile.csv", "w", encoding="utf-16") #re-write, NOT appending.
 
 #print CSV file's top row
 #NOTE: use tabs not commas to avoid confusion when Excel opens the CSV file
-outf.write("name\tPMElocn\tflickrpage\timageurl\taccuracy\tlat\tlong\ttags\tdescription\n")
+outf.write("name\tPMElocn\tflickrpage\timageurl\taccuracy\tlat\tlong\ttags\tdescription\tcount_views\tcount_faves\tcount_comments\tdate_taken\tdate_imported\tlicense\tprivacy\n")
 #file is now open, don't forget to close it.
 ```
 
@@ -51,6 +51,13 @@ for file in os.listdir():
         name = data["name"]
         photopage = data["photopage"]
         original = data["original"]
+        count_views = data["count_views"]
+        count_faves = data["count_faves"]
+        count_comments = data["count_comments"]
+        date_taken = data["date_taken"]
+        date_imported = data["date_imported"]
+        license = data["license"]
+        privacy = data["privacy"]
         
         #description may have unwanted newline characters:
         descr = data["description"]
@@ -92,11 +99,11 @@ for file in os.listdir():
         
         #concatenate the components for a row in the CSV file
         #NOTE: use tabs not commas to avoid confusion when Excel opens the CSV file
-        string = f"\"{name}\"\t\"{PMElocn}\"\t{photopage}\t{original}\t{acc}\t{lat}\t{lon}\t\"{tag_list}\"\t\"{description}\"\n"
+        string = f"\"{name}\"\t\"{PMElocn}\"\t{photopage}\t{original}\t{acc}\t{lat}\t{lon}\t\"{tag_list}\"\t\"{description}\"\t{count_views}\t{count_faves}\t{count_comments}\t\"{date_taken}\"\t\"{date_imported}\"\t\"{license}\"\t\"{privacy}\"\n"
         
         outf.write(string)
         count = count+1
-        print(f"file {count} = {file}")
+        #print(count)
 
 #save and close the file
 outf.close()

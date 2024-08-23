@@ -4,5 +4,6 @@ venv
 *.json
 *.csv
 *.ipynb
+*.xlsx
 .DS_Store
 .env
