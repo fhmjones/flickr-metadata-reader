@@ -76,7 +76,7 @@ for file in os.listdir():
         PMElocn = ""
 
         for x in range(i):
-            PMElocn += album_array[x-1]["title"]
+            PMElocn += album_array[x]["title"]
             if x<i-1:
                 PMElocn += ", "
         
