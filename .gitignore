@@ -1,5 +1,7 @@
 .idea
 venv
 *.pyc
+*.json
+*.csv
 .DS_Store
 .env
