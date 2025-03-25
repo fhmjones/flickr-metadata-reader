@@ -1,7 +1,4 @@
 # flickr-metadata-reader
-# THIS CODE IS PROBABLY NOT NEEDED SINCE WE NOW HAVE CODE FOR FETCHING METADATA.  (FJ FEB 2025)
-# THE EXCEPTING MIGHT BE IF FLICKR INFORMATION IS NEEDED BUT THE FLICKR API KEY IS NOT KNOWN.
-
 Converts a set of JSON formatted flickr image metadata into a single CSV file.
 Needs to be tab-delimited, not comma-delimited.
 Resulting text file is to be read into Excel for further processing, including:

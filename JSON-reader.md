@@ -19,6 +19,9 @@ To test multifile reading of JSON files representing Flickr image metadata
 import json
 import os
 
+# THIS CODE IS PROBABLY NOT NEEDED SINCE WE NOW HAVE CODE FOR FETCHING METADATA. (FJ FEB 2025)
+# THE EXCEPTING MIGHT BE IF FLICKR INFORMATION IS NEEDED BUT THE FLICKR API KEY IS NOT KNOWN.
+
 # Folder Path
 path = "data"
 os.chdir(path)
@@ -75,7 +78,8 @@ for file in os.listdir():
             lat = latlon[0]['latitude']
             lon = latlon[0]['longitude']
             acc = latlon[0]['accuracy']
-        
+        #NOTE lat/long are delivered from Flickr without decimal points. This seems wrong?
+
         #pick out cabinet - an array of lists
         #could be >1, but ideally specimens should be in only one album (i.e. one PME cabinet)
         album_array = data["albums"]
